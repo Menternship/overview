@@ -1,26 +1,21 @@
-# Overview of Menternship Website - For Development Purpose
+# Overview of Menternship Website
 
-## Summarization of Entities
+## Purpose
+To provide a platform where professional programmers with personal side projects can connect with new programmers who are looking for a more practical education
 
-### Users
-* Signup / Login (no password, just email)
-* User Profile (Edit / View)
-* Project (Create / Edit)
-* Apply Internships (Create)
-* Manage Internship Applications (View / Delete)
-* Search Internships (View)
-* Feedback (Create / View / Edit)
+## How does it work?
 
-### Projects
-* Project Description
-* Technologies / Languages / Frameworks used
-* Rating
-* Internships (Create / Edit)
-
-### Internships
-* Manage Applicants
-* Select Applicants
-* Send feedback to applicants
-* Feedback on onboard
-* Feedback on assignment
-* Feedback on communication
+### Professional Programmers
+ * Signup with linkedin profile
+ * Create project
+ * Create internship within project
+ * Set internship to active
+ * Wait for users to apply to internship
+ * Send offers (General introduction, final chance to get the user interested and let them know what they're getting into)
+ * If offer is accepted, you have a new volunteer intern that will be volunteering under the conditions of one of the official internships allowed on [Menternship]()
+ 
+ ### New Programmers
+ * Signup with linkedin profile
+ * Fill out your description
+ * Apply to active internships
+ * Accept or reject offers for volunteer internships (If offer is accepted, you will be volunteering under the conditions of one of the official internships allowed on [Menternship]())
