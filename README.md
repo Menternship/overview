@@ -1,7 +1,7 @@
-# Overview of Menternship Website
+# Overview of OpenMent Website
 
 ## Purpose
-To provide a platform where professional programmers with personal side projects can connect with new programmers who are looking for a more practical education
+To provide a platform where experienced programmers can connect and mentor novice and aspiring programmers
 
 ## How does it work?
 
