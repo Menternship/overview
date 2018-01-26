@@ -1,23 +1,23 @@
 # Terms of Services
 
-## Volunteer Intern
+## Mentees
 
-When you apply to be a volunteer intern through menternship, you are agreeing to the following conditions
- * You will not receive payment for your work as a volunteer intern
- * The owner of the internship has the right to use any work you do as a volunteer intern without compensating you
+When you apply to be a mentee for a mentorship, you are agreeing to the following conditions
+ * You will not receive payment for any work you do as a mentee
+ * The owner of the mentorship has the right to use any work you do as a mentee without compensating you
  * After the internship is terminated, and upon the internship owner's request, you will delete any property belonging to said owner
- * There should be absolutely no expectation that upon completing the internship, the internship owner will employ the you in a non-volunteer position
+ * There should be absolutely no expectation that upon completing the mentorship, the mentee will become employed by the mentor
  * You are expected to work the hours required in the timeframe provided to complete the internship
- * You or the internship owner can prematurely end a volunteer internship at anytime for any reason, and if you do so, neither party can take any legal actions either party you or demand compensation from either party purely for the reason of ending a volunteer internship prematurely
- * You are expected to learn valuable skills through the volunteer internship, and if you feel the work is either exploitive, or if you are simply not learning enough, you have the right to end the volunteer internship
+ * Both the mentee and the mentor can prematurely end a mentorship at anytime for any reason, and when this happens, neither party can take any legal actions or demand compensation from either party purely for the reason of ending the mentorship prematurely
+ * The mentee expected to learn valuable skills through the mentorship, and if the mentee feels the work is either exploitive, or if the mentee is simply not learning enough, the mentee has the right to end a mentorship
 
-## Internship Owner
+## Mentors
 
-When you create an active internship, and a person accepts your offer to be a volunteer intern, you agree to the following conditions
- * You will not pay the volunteer intern for their work
- * You have the right to use any work the volunteer intern completes for you without needing to compensate them
- * After the internship is terminated, you can request that the volunteer intern delete any property belonging to you
- * You cannot suggest by any means that after the volunteer intern completes the internship, you will employ them afterwards in a non-volunteer position
- * The volunteer intern is expected to work the hours required in the timeframe provided to complete the internship
- * You or the volunteer intern can prematurely end a volunteer internship at anytime for any reason, and if you do so, the internship owner cannot take any legal actions against you or demand compensation from you for the reason of ending a volunteer internship prematurely
- * You are expected to provide a meaningful experience for the volunteer interns where they can learn the necessary skills that will improve their chances of employment in a job that uses those skills, and if you do not, the volunteer intern can quit at anytime
+When you create an active internship, and a person accepts your offer to be a mentee, you agree to the following conditions
+ * You will not pay the mentee for their work
+ * You have the right to use any work the mentee completes for you without needing to compensate them
+ * After the mentorship is terminated, you can request that the mentee delete any property belonging to you
+ * You cannot suggest by any means that after the mentee completes the mentorship, you will employ them afterwards in a non-volunteer position
+ * The mentee is expected to work the hours required in the timeframe provided to complete the mentorship
+ * You or the mentee can prematurely end a mentorship at anytime for any reason, and if this occurs, neither party can take any legal actions or demand compensation from against one another for the reason of ending a mentorship prematurely
+ * You are expected to provide a meaningful experience for the mentee where they can learn the necessary skills that will improve their chances of employment in a job that uses those skills, and if you do not, the mentee can quit at anytime
