@@ -1,1 +1,1 @@
-Allow interns to rate different aspects of the internship, ranging from onboarding to code reviews and and general programming know-how.
+Allow mentees to rate different aspects of the mentorship, ranging from introduction to general effectiveness
