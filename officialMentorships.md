@@ -23,3 +23,5 @@
 
   * Meetings: Any length, any kind
   * Duration: Any duration
+
+*meetings can be in person, or by phone, video chat, and text chat
